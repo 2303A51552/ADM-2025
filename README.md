@@ -1,1 +1,2 @@
-# Applications-of-DM
+# ADM-2025
+Applications of Data Mining
